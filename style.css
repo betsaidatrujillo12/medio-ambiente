@@ -1,0 +1,45 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin: 20px 0;
+}
+
+/* Estilos para encabezados */
+h2 {
+    color: #0077b6;
+    font-size: 24px;
+}
+
+h3 {
+    color: #ff5733;
+    font-size: 20px;
+}
+
+/* Estilos para párrafos */
+p {
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+/* Estilos para la imagen */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    float: right; /* Alinear a la derecha */
+    margin: 20px 0 20px 20px; /* Margen para separar el contenido del texto */
+}
